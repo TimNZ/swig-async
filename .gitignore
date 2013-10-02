@@ -13,3 +13,7 @@ tests/browser.js
 tmp
 docs/docs/*.json
 docs/coverage.html
+push.bat
+.idea/*
+.idea
+
